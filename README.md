@@ -1,4 +1,3 @@
 # URL Shortener Microservice
 
-This is the boilerplate code for the URL Shortener Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice.
-# backend-project-urlshortener
+This URL shortener microservice allows you to add webpage addresses into a database, after it gives a hortened URL, which is a number, and lets you use it with the URL address of the deployed program.
